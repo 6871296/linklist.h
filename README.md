@@ -30,4 +30,4 @@ I don't want and think I don't need to say what's a linklist.
 
 Last but not least, **when you find out there're bugs or errors in this file, please tell me at the first time.**
 ### Git Clone command
-``git clone git@github.com:6871296/linklist.h``
+``git clone git@github.com:6871296/linklist.h.git``
