@@ -12,6 +12,7 @@ This is fit for any default classes in C++.
 
 #### Default functions
 - `void init(bool loop=false)`: **initilize the linklist.**
+
 **⚠️SERIOUS WARNING: MUST AND ONLY USE THIS FUNCTION BEFORE USING.**
 - `unsigned long long len()`: **get the length** of the linklist.
 - `int get_value(unsigned long long index)`: **get the value** of the index in the linklist.
